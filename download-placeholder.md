@@ -10,6 +10,6 @@ sections:
     content: >-
       Dark Maps isn't quite ready for release. Sorry!
 
-      Email us at beta@dark-maps.com to request early access or be informed when the app is ready for prime time!
+      Email us at [beta@dark-maps.com](mailto:beta@dark-maps.com) to request early access or be informed when the app is ready for prime time!
 layout: landing
 ---
