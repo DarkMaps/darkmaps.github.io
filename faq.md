@@ -9,7 +9,7 @@ sections:
     type: section_faq
     background: gray
     title: Frequently Asked Questions
-    subtitle: Coming Soon..
+    subtitle: Please use the contact form at the bottom of this page to ask any questions you don't find below.
     faq_items:
       - question: Why did you make Dark Maps?
         answer: >-
