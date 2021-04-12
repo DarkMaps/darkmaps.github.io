@@ -16,7 +16,7 @@ sections:
           * Open source code
         actions:
           - label: Download
-            url: download-placeholder
+            url: download
             style: secondary
       - title: Subscriber
         subtitle: Live location updates
@@ -28,7 +28,7 @@ sections:
         highlight: true
         actions:
           - label: Download
-            url: download-placeholder
+            url: download
             style: primary
 layout: landing
 ---

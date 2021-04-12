@@ -61,7 +61,7 @@ sections:
     subtitle: Download now to start sharing your location.
     actions:
       - label: Download
-        url: download-placeholder
+        url: download
         style: primary
 meta_title: Dark Maps
 meta_description: Encrypted Location Sharing

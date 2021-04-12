@@ -22,7 +22,7 @@ sections:
       Click below to download the iOS app and get started.
     actions:
       - label: Download
-        url: download-placeholder
+        url: download
         style: primary
   - section_id: features
     type: section_features
@@ -85,7 +85,7 @@ sections:
     subtitle: Click below to download the iOS app and get started.
     actions:
       - label: Download
-        url: download-placeholder
+        url: download
         style: secondary
 layout: landing
 ---

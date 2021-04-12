@@ -25,7 +25,7 @@ header:
       url: /faq
       style: link
     - label: Download
-      url: download-placeholder
+      url: download
       style: primary
 footer:
   sections:
@@ -54,6 +54,12 @@ footer:
           style: link
           has_icon: true
           icon: github
+          icon_position: left
+        - label: Twitter
+          url: 'https://twitter.com/MapsDark'
+          style: link
+          has_icon: true
+          icon: twitter
           icon_position: left
   has_nav: true
   nav_links:
