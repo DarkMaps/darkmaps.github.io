@@ -55,12 +55,6 @@ footer:
           has_icon: true
           icon: github
           icon_position: left
-        - label: Twitter
-          url: 'https://twitter.com/MapsDark'
-          style: link
-          has_icon: true
-          icon: twitter
-          icon_position: left
   has_nav: true
   nav_links:
     - label: Terms of Service
